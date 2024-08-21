@@ -10,9 +10,9 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Zhuang, Xiaowen; Lemak, Julia; Sridhar, Sadhana (2024) Abnormal Striatal
-  Activity in a Mouse Model of Impulse Control Disorder in Parkinson’s Disease (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001177/draft
+citation: Zhuang, Xiaowen; Lemak, Julia; Sridhar, Sadhana; Nelson, Alexandra B. (2024)
+  Abnormal Striatal Activity in a Mouse Model of Impulse Control Disorder in Parkinson’s
+  Disease (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/001177/draft
 contributor:
 - awardNumber: 1 R01 NS 101354-01A1
   name: National Institutes of Health (NIH)
@@ -39,10 +39,23 @@ contributor:
   roleName:
   - dcite:Author
   schemaKey: Person
-- awardNumber: 1 R01 NS 101354-01A1
-  email: alexandra.nelson@ucsf.edu
+- awardNumber: PF-PRF-836910
   includeInCitation: false
-  name: Nelson,  Alexandra B.
+  name: Parkinson’s Foundation
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+- awardNumber: ASAP-020529
+  identifier: https://ror.org/03zj4c476
+  includeInCitation: false
+  name: Aligning Science Across Parkinson’s
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://parkinsonsroadmap.org/
+- email: alexandra.nelson@ucsf.edu
+  includeInCitation: true
+  name: Nelson, Alexandra B.
   roleName:
   - dcite:Author
   - dcite:ContactPerson
