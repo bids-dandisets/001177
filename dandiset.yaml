@@ -43,7 +43,7 @@ assetsSummary:
   - Units
 citation: Zhuang, Xiaowen; Lemak, Julia; Sridhar, Sadhana; Nelson, Alexandra B. (2025)
   Abnormal Striatal Activity in a Mouse Model of Impulse Control Disorder in Parkinson’s
-  Disease (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001177/draft
+  Disease (Version 0.250902.2127) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001177/0.250902.2127
 contributor:
 - awardNumber: 1 R01 NS 101354-01A1
   name: National Institutes of Health (NIH)
@@ -116,14 +116,15 @@ description: In this project, we studied cognitive behavior and striatal activit
   isolate single units. We then aligned spiking activity to light pulses to identify
   optically-labeled neurons, and aligned all single-unit activity (labeled or not)
   to behavioral data.
+doi: 10.48324/dandi.001177/0.250902.2127
 ethicsApproval: []
-id: DANDI:001177/draft
+id: DANDI:001177/0.250902.2127
 identifier: DANDI:001177
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001177/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001177/0.250902.2127/assets.yaml
 name: Abnormal Striatal Activity in a Mouse Model of Impulse Control Disorder in Parkinson’s
   Disease
 protocol: []
@@ -144,6 +145,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001177/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001177/0.250902.2127
+version: 0.250902.2127
 wasGeneratedBy: []
