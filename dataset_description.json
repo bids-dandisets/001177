@@ -1,0 +1,22 @@
+{
+    "Name": "Abnormal Striatal Activity in a Mouse Model of Impulse Control Disorder in Parkinson\u2019s Disease",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "In this project, we studied cognitive behavior and striatal activity in a mouse model of impulse control disorder in Parkinson\u2019s disease in which we administered the therapeutic dopamine D2/3R agonist, pramipexole. In food-deprived mice treated with bilateral striatal saline (healthy control) or 6-OHDA (mouse model of Parkinson\u2019s Disease), we performed both open field locomotor assessments and operant testing to assess a cognitive phenomenon called delay discounting (DD). The operant box consisted of two (left and right) choice ports with beam breaks for nosepokes, and a central reward port that delivered milk. In some sessions, we administered pramipexole intraperitoneally prior to behavioral testing. In these mice, we performed simultaneous optically-identified single-unit electrophysiology using optrode arrays implanted in the dorsomedial striatum (DMS) of Drd1-Cre or A2a-Cre mice that expressed Cre-dependent ChR2-eYFP. Electrophysiology recordings were performed during either open field locomotor assessments or operant testing. During each cognitive assessment session, behavior was monitored by video tracking and/or operant box TTL events (nosepokes, cue lights, reward delivery, etc). During each electrophysiology session, DMS voltage signals were acquired using a Blackrock electrophysiology recording system. At the end of each session, blue light pulses (473 nm laser) were delivered to the optrode array (100 msec, 1 Hz, 4000 pulses) at a variety of light powers (0.5, 1, 2, 4 mW) by a lightweight patch cable. After recording sessions, we performed manual spike sorting (Plexon Offline Sorter) to isolate single units. We then aligned spiking activity to light pulses to identify optically-labeled neurons, and aligned all single-unit activity (labeled or not) to behavioral data.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Zhuang, Xiaowen",
+        "Lemak, Julia",
+        "Sridhar, Sadhana",
+        "Nelson, Alexandra B."
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
