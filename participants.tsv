@@ -1,19 +1,19 @@
-participant_id	species	sex
-sub-C3+2	Mus musculus	F
-sub-C9	Mus musculus	M
-sub-D0	Mus musculus	M
-sub-D3+1	Mus musculus	M
-sub-E0	Mus musculus	M
-sub-E5	Mus musculus	M
-sub-H0+2	Mus musculus	M
-sub-H1+3	Mus musculus	M
-sub-H4+3	Mus musculus	M
-sub-J0	Mus musculus	M
-sub-JFB	Mus musculus	F
-sub-JFC	Mus musculus	M
-sub-JFF	Mus musculus	M
-sub-K1	Mus musculus	F
-sub-K4	Mus musculus	M
-sub-N4	Mus musculus	M
-sub-P2	Mus musculus	F
-sub-P4	Mus musculus	M
+participant_id	original_participant_id	species	sex
+sub-C3+2	sub-C3.2	Mus musculus	F
+sub-C9	sub-C9	Mus musculus	M
+sub-D0	sub-D0	Mus musculus	M
+sub-D3+1	sub-D3.1	Mus musculus	M
+sub-E0	sub-E0	Mus musculus	M
+sub-E5	sub-E5	Mus musculus	M
+sub-H0+2	sub-H0.2	Mus musculus	M
+sub-H1+3	sub-H1.3	Mus musculus	M
+sub-H4+3	sub-H4.3	Mus musculus	M
+sub-J0	sub-J0	Mus musculus	M
+sub-JFB	sub-JFB	Mus musculus	F
+sub-JFC	sub-JFC	Mus musculus	M
+sub-JFF	sub-JFF	Mus musculus	M
+sub-K1	sub-K1	Mus musculus	F
+sub-K4	sub-K4	Mus musculus	M
+sub-N4	sub-N4	Mus musculus	M
+sub-P2	sub-P2	Mus musculus	F
+sub-P4	sub-P4	Mus musculus	M

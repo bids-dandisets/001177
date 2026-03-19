@@ -1,6 +1,6 @@
-session_id
-ses-PPXopenField+E0+day1
-ses-PPXopenField+E0+day2
-ses-PPXopenField+E0+day3
-ses-PPXopenField+E0+day4
-ses-Saline+openField+E0
+session_id	original_session_id
+ses-PPXopenField+E0+day1	ses-PPXopenField-E0-day1
+ses-PPXopenField+E0+day2	ses-PPXopenField-E0-day2
+ses-PPXopenField+E0+day3	ses-PPXopenField-E0-day3
+ses-PPXopenField+E0+day4	ses-PPXopenField-E0-day4
+ses-Saline+openField+E0	ses-Saline-openField-E0

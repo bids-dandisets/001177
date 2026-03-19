@@ -1,5 +1,5 @@
-session_id
-ses-PPXopenField+H0+2+day1
-ses-PPXopenField+H0+2+day2
-ses-PPXopenField+H0+2+day3
-ses-PPXopenField+H0+2+day4
+session_id	original_session_id
+ses-PPXopenField+H0+2+day1	ses-PPXopenField-H0.2-day1
+ses-PPXopenField+H0+2+day2	ses-PPXopenField-H0.2-day2
+ses-PPXopenField+H0+2+day3	ses-PPXopenField-H0.2-day3
+ses-PPXopenField+H0+2+day4	ses-PPXopenField-H0.2-day4
